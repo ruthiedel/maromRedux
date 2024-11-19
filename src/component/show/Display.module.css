@@ -1,0 +1,25 @@
+/* Display.module.css */
+.container {
+    text-align: center;
+  }
+  
+  .count {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    background-color: #0070f3;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #005bb5;
+  }
+  
